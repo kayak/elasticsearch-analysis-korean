@@ -3,7 +3,7 @@ Korean Analysis for ElasticSearch
 
 The Korean Analysis plugin integrates Lucene Korean analysis module into elasticsearch.
 
-In order to install the plugin, simply run: `bin/plugin -install mckennajp/elasticsearch-analysis-korean`
+In order to install the plugin, simply run: `bin/plugin install mckennajp/elasticsearch-analysis-korean`
 
 
 Or you can clone this git repository, set correct version, build and just copy the jar file to `plugins/analysis-korean/` directory.
