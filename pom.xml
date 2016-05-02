@@ -18,9 +18,9 @@
     </license>
   </licenses>
   <scm>
-    <connection>scm:git:git@github.com:mckennajp/elasticsearch-analysis-korean.git</connection>
-    <developerConnection>scm:git:git@github.com:mckennajp/elasticsearch-analysis-korean.git</developerConnection>
-    <url>http://github.com/mckennajp/elasticsearch-analysis-korean</url>
+    <connection>scm:git:git@github.com:kayak/elasticsearch-analysis-korean.git</connection>
+    <developerConnection>scm:git:git@github.com:kayak/elasticsearch-analysis-korean.git</developerConnection>
+    <url>http://github.com/kayak/elasticsearch-analysis-korean</url>
   </scm>
 
   <parent>
